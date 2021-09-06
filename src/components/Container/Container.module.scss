@@ -1,0 +1,12 @@
+.Container {
+  margin: 30px auto;
+  padding: 10px;
+  max-width: 320px;
+  background-image: linear-gradient(
+    120deg,
+    rgba(46, 236, 132, 0.6) 0%,
+    rgba(217, 237, 247, 0.6) 100%
+  );
+  border: 1px solid;
+  border-radius: 9px;
+}
