@@ -6,13 +6,15 @@
 .feedbackBtn {
   padding: 10px;
   width: 80px;
+  font-weight: 300;
+  font-size: 14px;
 
   border: none;
   outline: none;
 
   border-radius: 8px;
-  background-color: rgb(57, 206, 94);
-  color: #fff;
+  background-color: rgba(50, 211, 157, 0.5);
+  color: #000;
 
   cursor: pointer;
 }
